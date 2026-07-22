@@ -1,10 +1,10 @@
 # Juno PM — Lovable Prototype
 
 ## Lovable share link
-_(paste your Lovable share URL here — e.g. `https://lovable.dev/projects/...`)_
+_(paste your Lovable share URL here — e.g. `https://lovable.dev/[projects/fa707691-807f-4824-ad87-ff61b282016e](https://lovable.dev/projects/fa707691-807f-4824-ad87-ff61b282016e?magic_link=mc_44514103-788f-49ed-b0be-192d00dd26d8))_
 
 ## GitHub source code
-_(paste the URL of the GitHub repo you connected from Lovable — e.g. `https://github.com/<you>/juno-pm-prototype`)_
+_(paste the URL of the GitHub repo you connected from Lovable — e.g. `https://github.com/hulious42-forever/Juno---PM`)_
 
 > Connecting Lovable to GitHub pushes the React source code to a repo on your account. This means the prototype survives even if you cancel Lovable, and another engineer can fork it. Step 4 of the M1 lab tool walks you through the click-path.
 
@@ -19,10 +19,16 @@ The UI looks production-grade but the AI summary has no real product brain. The 
 ## Screenshots
 _(drop 1–2 screenshots in this folder and reference them here)_
 
+<img width="1538" height="898" alt="image" src="https://github.com/user-attachments/assets/eeb30f8b-7379-4701-ad0b-72e042c84f4b" />
+
+<img width="1602" height="962" alt="image" src="https://github.com/user-attachments/assets/d7cc2a5e-9b05-4189-8cdb-ae44a6dc3fa3" />
+
+
+
 ## Design refinement path used
 _(circle one and add a sentence about why)_
-- Path A · Brand Alignment (uploaded screenshot of …)
-- Path B · Vibe Match (mimicked …)
+- Path A · Brand Alignment 
+- Path B · Vibe Match (mimicked
 - Lovable's built-in Themes only
 
 ## Open questions for M2
