@@ -28,7 +28,7 @@ _(drop 1–2 screenshots in this folder and reference them here)_
 ## Design refinement path used
 _(circle one and add a sentence about why)_
 - Path A · Brand Alignment 
-- Path B · Vibe Match (mimicked
+- Path B · Vibe Match (mimicked a minimal clean look and feel) 
 - Lovable's built-in Themes only
 
 ## Open questions for M2
