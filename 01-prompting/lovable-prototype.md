@@ -32,4 +32,4 @@ _(circle one and add a sentence about why)_
 - Lovable's built-in Themes only
 
 ## Open questions for M2
-- _(what bet does this prove out? what doesn't it prove out yet?)_
+- _(what bet does this prove out? what doesn't it prove out yet?)_ Its visual look and feel is on par however from a backend perspective what looks good may not perform its ended function. Does the platform perfrom its function that is yet to be determined. 
